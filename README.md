@@ -32,7 +32,7 @@ An implementation of grid-based path planning algorithms for navigating robots t
 <br />
 <div align="center">
   <a>
-    <img src="https://github.com/Don-Withana/Grid-Path-Planning-Robot/blob/main/Grid-Logo.png" alt="Logo" width="250" height="255">
+    <img src="https://github.com/Don-Withana/Grid-Path-Planning-Robot/blob/master/Grid-Logo.png" alt="Logo" width="250" height="255">
   </a>
 
   <h3 align="center">Efficient Path Planning for Autonomous Robot</h3>
