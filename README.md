@@ -1,10 +1,10 @@
-# Grid-Path-Planning-Robot
+# Grid-Path-Planning-Bot
 An implementation of grid-based path planning algorithms for navigating robots through obstacles.
 
-<!-- Improved compatibility of back to top link: See: https://github.com/Don-Withana/Grid-Path-Planning-Robot/pull/73 -->
+<!-- Improved compatibility of back to top link: See: https://github.com/Don-Withana/Grid-Path-Planning-Bot/pull/73 -->
 <a id="readme-top"></a>
 <!--
-*** Thanks for checking out the Grid-Path-Planning-Robot. If you have a suggestion
+*** Thanks for checking out the Grid-Path-Planning-Bot. If you have a suggestion
 *** that would make this better, please fork the repo and create a pull request
 *** or simply open an issue with the tag "enhancement".
 *** Don't forget to give the project a star!
@@ -32,7 +32,7 @@ An implementation of grid-based path planning algorithms for navigating robots t
 <br />
 <div align="center">
   <a>
-    <img src="https://github.com/Don-Withana/Grid-Path-Planning-Robot/blob/main/Grid-Logo.png" alt="Logo" width="250" height="255">
+    <img src="https://github.com/Don-Withana/Grid-Path-Planning-Bot/blob/main/Grid-Logo.png" alt="Logo" width="250" height="255">
   </a>
 
   <h3 align="center">Efficient Path Planning for Autonomous Robot</h3>
@@ -195,16 +195,16 @@ Special thanks to the following resources and tools that have been invaluable in
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Don-Withana/Grid-Path-Planning-Robot.svg?style=for-the-badge
-[contributors-url]: https://github.com/Don-Withana/Grid-Path-Planning-Robot/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Don-Withana/Grid-Path-Planning-Robot.svg?style=for-the-badge
-[forks-url]: https://github.com/Don-Withana/Grid-Path-Planning-Robot/network/members
-[stars-shield]: https://img.shields.io/github/stars/Don-Withana/Grid-Path-Planning-Robot.svg?style=for-the-badge
-[stars-url]: https://github.com/Don-Withana/Grid-Path-Planning-Robot/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Don-Withana/Grid-Path-Planning-Robot.svg?style=for-the-badge
-[issues-url]: https://github.com/Don-Withana/Grid-Path-Planning-Robot/issues
-[license-shield]: https://img.shields.io/github/license/Don-Withana/Grid-Path-Planning-Robot.svg?style=for-the-badge
-[license-url]: https://github.com/Don-Withana/Grid-Path-Planning-Robot/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/Don-Withana/Grid-Path-Planning-Bot.svg?style=for-the-badge
+[contributors-url]: https://github.com/Don-Withana/Grid-Path-Planning-Bot/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Don-Withana/Grid-Path-Planning-Bot.svg?style=for-the-badge
+[forks-url]: https://github.com/Don-Withana/Grid-Path-Planning-Bot/network/members
+[stars-shield]: https://img.shields.io/github/stars/Don-Withana/Grid-Path-Planning-Bot.svg?style=for-the-badge
+[stars-url]: https://github.com/Don-Withana/Grid-Path-Planning-Bot/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Don-Withana/Grid-Path-Planning-Bot.svg?style=for-the-badge
+[issues-url]: https://github.com/Don-Withana/Grid-Path-Planning-Bot/issues
+[license-shield]: https://img.shields.io/github/license/Don-Withana/Grid-Path-Planning-Bot.svg?style=for-the-badge
+[license-url]: https://github.com/Don-Withana/Grid-Path-Planning-Bot/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/himanwithana
 [java-shield]: https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
